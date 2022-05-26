@@ -1,5 +1,6 @@
-# 민상훈 ![image](https://user-images.githubusercontent.com/9455624/170505262-e8d464a4-cc08-48de-89f0-734b3ad99e17.png){: width="100" height="100"}
-
+# 민상훈 
+ 
+<img src = "https://user-images.githubusercontent.com/9455624/170505262-e8d464a4-cc08-48de-89f0-734b3ad99e17.png" width="10%" height="10%">
 
 ## Contact
 
