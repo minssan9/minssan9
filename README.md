@@ -1,15 +1,13 @@
-# 민상훈 
- 
-<img src = "https://user-images.githubusercontent.com/9455624/170505262-e8d464a4-cc08-48de-89f0-734b3ad99e17.png" width="10%" height="10%">
-
-## Contact
+# 민상훈 <img src = "https://user-images.githubusercontent.com/9455624/170505262-e8d464a4-cc08-48de-89f0-734b3ad99e17.png" width="5%" height="5%">
+# Contact
 
 - **Phone** 010-5628-6160
 - **Email** minssan9@gmail.com
 - **Github** [https://github.com/minssan9](https://github.com/minssan9)
 - **Website** [http://en9doors.com](http://en9doors.com)
 
-## Strength
+
+# Strength
 
 - 시스템 설계, Backend, Frontend(Windows App) 개발 및 Database, Network, Server 운영 경험이 있습니다.
 - 시간을 소중하게 생각하며, 효율적으로 사용할 수 있는 방법을 주변 동료들과 공유합니다.
@@ -36,7 +34,55 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff)
 
+# Business Experience 
 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
- 
+## 🏢한라홀딩스
+2020.11 ~ / 물류 시스템, 아키텍처
+
+### Spring 기반
+인터페이스 API 서버 구축 운영
+- Spring Boot, JPA, Unit Test 개발 방법 공유.
+    - API 서버 : Oracle ERP DB, Maria DB 연동 REST API 기능 구현
+    - Batch 서버 개발, Jenkins 이용 작업 일정 관리
+    - JPA, QueryDsl 사용 예제 공유
+- Spring Cloud Gateway
+    - Gateway : Router
+    - Eureka Server : Discovery, Load Balancing
+- Database : Oracle, mariaDB
+
+### DevOps 구축
+- SCM : GitLab Server 관리, Fork 사용 교육
+- Dev Tool : gradle, nodeJS, Jenkins, Docker, Rancher(Kubernetis Orchestration Tool) 관리
+    - Jenkins pipeline CI/CD 환경 구축(Teams 연동)
+- On-premise → Iaas 이관 (AWS)
+
+### Architecture  
+![image](https://user-images.githubusercontent.com/9455624/170506340-b5787c8a-e3ae-4b80-a5ff-002779b36669.png)
+
+
+## 서한산업
+2015.02 ~ 2020.11 / ERP, 제조, 물류 시스템
+
+### SCM, MES, WMS, SPC 시스템 기획, 설계, 개발
+- Windows Application 자체 ERP 구축
+- VB6, Winforms
+- ERP, MES, QMS 시스템 모듈 기획, 개발
+- 작업자 키오스크, PDA UI, 기능 개발 (4개 공장, 약 500명, 키오스크 약 100대, PDA 약 30대)
+- 일단위, 월단위 재고, 입출고, 생산 데이터 마감 배치 작업(월 300만 건 기준)
+
+### SCM Portal 모듈 개발
+- C# ASP .Net MVC Framework
+- 협력사 자재 발주, 납품 업무 기획 개발
+
+### Spring 기반 Data API 수집 서버 구축
+- Spring Boot, JPA, Mybatis, REST, JUnit5
+- Github, Gradle, Jenkins 기반 배포 DevOps 환경 구축
+- 생산 설비 데이터, 공장 내 센서 데이터 수집 클라이언트 개발
+
+### Vue.js 기반 Web UI 플랫폼 구축
+- Vue.js, Bootstrap, Vuetify
+- Github, Jenkins, Node.js, Nginx 빌드 배포 프로세스 수립
+- 키오스크, 태블릿 기반 업무 처리를 위한 플랫폼 구축
+
+### Architecture  
+![image](https://user-images.githubusercontent.com/9455624/170506818-26aa1bbd-8d7e-4f62-bd28-a77475fe25da.png)
