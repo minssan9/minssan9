@@ -4,7 +4,7 @@
 
 ### Backend
 ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-007ACC?style=for-the-badge&logo=Spring)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff&color=#6DB33F)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=ffffff&color=02303A)  
 
 ### Frontend
