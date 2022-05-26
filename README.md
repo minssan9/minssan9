@@ -1,4 +1,5 @@
-# 민상훈
+# 민상훈 ![image](https://user-images.githubusercontent.com/9455624/170505262-e8d464a4-cc08-48de-89f0-734b3ad99e17.png)
+
 
 ## Contact
 
@@ -6,8 +7,6 @@
 - **Email** minssan9@gmail.com
 - **Github** [https://github.com/minssan9](https://github.com/minssan9)
 - **Website** [http://en9doors.com](http://en9doors.com)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4ff8b10-b257-4733-bf8b-f82e0187fdfb/Untitled.png)
 
 ## Strength
 
