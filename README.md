@@ -1,6 +1,23 @@
-### Hi there 👋   
+# 민상훈
 
-<h2> My tech stack 📚 </h2>
+## Contact
+
+- **Phone** 010-5628-6160
+- **Email** minssan9@gmail.com
+- **Github** [https://github.com/minssan9](https://github.com/minssan9)
+- **Website** [http://en9doors.com](http://en9doors.com)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4ff8b10-b257-4733-bf8b-f82e0187fdfb/Untitled.png)
+
+## Strength
+
+- 시스템 설계, Backend, Frontend(Windows App) 개발 및 Database, Network, Server 운영 경험이 있습니다.
+- 시간을 소중하게 생각하며, 효율적으로 사용할 수 있는 방법을 주변 동료들과 공유합니다.
+- 제조, 물류 기반 시스템에 대한 비즈니스 이해와 Java, VB, Javascript 개발 업무, Infra 관리 경력이 있습니다.
+- 재사용 가능하고 확장가능한 설계를 위한 고민을 하며 업무에 적용하고 있습니다.
+- 여행과 다양한 경험, 운동에 관심이 많습니다.
+
+# Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Java&logoColor=ffffff)
