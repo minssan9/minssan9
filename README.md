@@ -27,6 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vuejs](https://img.shields.io/badge/-Vue.js-%23F7DF1C?style=for-the-badge&logo=Vue.js&logoColor=000000&color=4FC08D)
+![Vuetify](https://img.shields.io/badge/-Vuetify-%1867C0?style=for-the-badge&logo=Vuetify&logoColor=000000&color=5C2D91)
 ![Visual Basic](https://img.shields.io/badge/-VisualBasic-%23F7DF1C?style=for-the-badge&logo=VisualStudio&logoColor=000000&color=5C2D91)
 
 ### DevOps
