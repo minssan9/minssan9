@@ -35,7 +35,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff)
 ![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=ffffff)
+![Argo](https://img.shields.io/badge/-Argo-EF7B4D?style=for-the-badge&logo=rancher&logoColor=EF7B4D)
 ![AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
+
 
 
 # Business Experience 
@@ -43,22 +45,29 @@
 ## 🏢한라홀딩스
 2020.11 ~ / 물류 시스템, 아키텍처
 
-### Spring 기반
-인터페이스 API 서버 구축 운영
+### 물류시스템 구축 및 운영
+Vuejs, Spring Boot 기반 시스템 구축, 운영
 - Spring Boot, JPA, Unit Test 개발 방법 공유.
     - API 서버 : Oracle ERP DB, Maria DB 연동 REST API 기능 구현
     - Batch 서버 개발, Jenkins 이용 작업 일정 관리
     - JPA, QueryDsl 사용 예제 공유
-- Spring Cloud Gateway
+- Vuejs 프레임워크 아키텍처 정의
+    - Quasar.js, Vuetify 기반 vuejs 프레임워크 Component 개발
+- Spring Cloud Gateway(해외)
     - Gateway : Router
     - Eureka Server : Discovery, Load Balancing
+- AWS EKS & istio(국내)
+    - istio 기반 Discovery, LB, Gateway 구성
+    - kiali, argoCD 기반 운영 환경 구성
 - Database : Oracle, mariaDB
 
 ### DevOps 구축
-- SCM : GitLab Server 관리, Fork 사용 교육
+국내, 해외 다중 환경 시스템 운영 및 배포 파이프라인 구축 관리
+- SCM : GitLab Server 관리, Fork 가이드 공유
 - Dev Tool : gradle, nodeJS, Jenkins, Docker, Rancher(Kubernetis Orchestration Tool) 관리
     - Jenkins pipeline CI/CD 환경 구축(Teams 연동)
 - On-premise → Iaas 이관 (AWS)
+- Cloud : AWS Saas 운영, EKS istio 기반 서비스 운영, ELK 기반 모니터링 관리
 
 ### Architecture  
 ![image](https://user-images.githubusercontent.com/9455624/170506340-b5787c8a-e3ae-4b80-a5ff-002779b36669.png)
