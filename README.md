@@ -33,10 +33,13 @@
 ### DevOps
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff)
-![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=ffffff)
 ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?style=for-the-badge&logo=rancher&logoColor=ffffff)
+
+![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
 
 ![AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
 
