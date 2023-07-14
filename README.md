@@ -25,15 +25,14 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vuejs](https://img.shields.io/badge/-Vue.js-%23F7DF1C?style=for-the-badge&logo=Vue.js&logoColor=000000&color=4FC08D)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-%1867C0?style=for-the-badge&logo=Vuetify&logoColor=000000&color=1867C0)
 ![Visual Basic](https://img.shields.io/badge/-VisualBasic-%23F7DF1C?style=for-the-badge&logo=VisualStudio&logoColor=000000&color=5C2D91)
 
 ### DevOps
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff)
 ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?style=for-the-badge&logo=Argo&logoColor=ffffff)
